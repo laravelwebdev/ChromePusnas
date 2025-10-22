@@ -1,6 +1,6 @@
 # 📚 iPusnas Downloader CLI
 
-Script untuk mengunduh pdf buku dari ipusnas.
+Script untuk mengunduh pdf buku.
 
 > ⚠️ **Important:** Anda Harus **meminjam buku** pada aplikasi iPusnas **sebelum** menggunakan tool ini. hanya buku yang telah dipinjam yang bisa diunduh.
 
