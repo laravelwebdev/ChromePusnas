@@ -33,6 +33,6 @@ Buku yang telah terunduh ada di folder Downloads/books
 Buat yang punya web: 
 1. kalau ada laporan bug software mbok ya didengar, malah disepelekan.
 2. Kalau bikin update aplikasi mbo ya dipikirin yang punya ereader jadul, tiba-tiba gak support, ya pada nyari jalan buat download lah.
-3. Kalau setelah lihat ini mau dengar, saya siap memberi masukan keamanan tanpa syarat apapun, Dan kalau sudah ada solusi terkait ereader, dengan sendirinya ini bakal dihapus. hihi
+3. Kalau setelah lihat ini mau dengar, saya siap memberi masukan keamanan imbalan apapun, Dan kalau sudah ada solusi terkait ereader, dengan sendirinya ini bakal dihapus. hihi
 
 Made for educational purposes and to facilitate easier access to books **you’ve already borrowed** from the official iPusnas platform.
