@@ -1,8 +1,9 @@
 # 📚 iPusnas Downloader CLI
 
-A Node.js command-line tool to download and decrypt DRM-protected books from [ipusnas.perpusnas.go.id](https://ipusnas2.perpusnas.go.id/).
+Script untuk mengunduh pdf buku dari ipusnas.
 
-> ⚠️ **Important:** You must have **borrowed the book** in the iPusnas app **before** using this tool. This tool does not bypass borrowing restrictions.
+> ⚠️ **Important:** Anda Harus **meminjam buku** pada aplikasi iPusnas **sebelum** menggunakan tool ini. hanya buku yang telah dipinjam yang bisa diunduh.
+> ⚠️ **Important:** Gunakan dengan bijak, gunakan bukunya untuk pribadi saja. Jangan diperjual belikan, gak berkah brooo.
 
 ---
 
