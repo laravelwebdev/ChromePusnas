@@ -6,6 +6,10 @@ Script untuk mengunduh pdf buku.
 
 > ⚠️ **Important:** Gunakan dengan bijak, gunakan bukunya untuk pribadi saja. Jangan diperjual belikan, gak berkah brooo.
 ---
+
+## Update Log
+1. Support epub download (install ulang untuk mengupdate aplikasi)
+   
 ## Installasi
 ### Windows
 1. Buka Powershell, **Run As Administrator**
