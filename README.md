@@ -12,5 +12,7 @@ Pindah ke link ini
    ![Alt text](./akun.png)
 2. Pinjam Buku
    ![Alt text](./pinjam.png)
-3. Unduh file
+   Masukkan link buku dari iPusnas. Contoh:
+   ![Alt text](./url.png)   
+4. Unduh file
    ![Alt text](./download.png)
