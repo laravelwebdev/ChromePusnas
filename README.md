@@ -1,4 +1,4 @@
 # 📚 ChromePusnas
 
 How it works:
-[!Watch the video]([https://github.com/laravelwebdev/ChromePusnas/blob/main/Installation.mp4](https://www.youtube.com/watch?v=0_mWJYU90Jw))
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/0_mWJYU90Jw?si=uCb1LTro5KXt5Fw7))
