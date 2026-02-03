@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riwayat Baca</title>
+    <!-- Google Fonts as requested for premium look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script type="module" crossorigin src="/library.js"></script>
+  <link rel="stylesheet" crossorigin href="/library.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Koleksi Saya</h1>
+            <input type="text" id="searchInput" placeholder="Cari buku...">
+        </header>
+
+        <main id="bookGrid" class="book-grid">
+            <!-- Books will be injected here -->
+        </main>
+
+        <div id="bulkActionBar" class="bulk-action-bar">
+            <div class="bulk-info">
+                <span id="selectedCount">0</span> buku dipilih
+            </div>
+            <div class="bulk-actions">
+                <button id="cancelSelectionBtn" class="bulk-btn secondary">Batal</button>
+                <button id="selectAllBtn" class="bulk-btn secondary">Pilih Semua</button>
+                <button id="deleteSelectedBtn" class="bulk-btn danger">Hapus Terpilih</button>
+            </div>
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">Memuat...</div>
+        <div id="emptyState" class="empty-state" style="display: none;">Tidak ada buku ditemukan</div>
+
+        <footer>
+            <button id="prevBtn" class="nav-btn" disabled>&lt;</button>
+            <span id="pageInfo">1 / 1</span>
+            <button id="nextBtn" class="nav-btn" disabled>&gt;</button>
+        </footer>
+    </div>
+
+</body>
+</html>
