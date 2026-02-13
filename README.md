@@ -1,5 +1,6 @@
 # ![MocoX](./icons/icon48.png) MocoX
 
+```
 They present themselves as the No. 1 Digital Library Developer in Indonesia.
 They claim to work with 250 government and private partners across provinces and cities, collaborate with 600+ publishers, and even position themselves as a partner of Kementerian Pendidikan Tinggi, Sains, dan Teknologi Republik Indonesia.
 They proudly promote their “#10YearsExperience.”
@@ -9,13 +10,14 @@ Yet despite all these claims, their website security is shockingly poor.
 For an organization trusted by government institutions and funded by public money, this level of negligence is unacceptable. It shows a serious lack of professionalism and responsibility.
 
 I have already reported the vulnerabilities. There is no excuse for ignoring them. They must take immediate action, fix the flaws, and be held accountable for the significant amount of public funds spent on their services.
+```
 
 
 ## Features
 1. Download book files
 2. Support for epub and pdf files, with or without DRM protection
 3. Collection saved to IndexedDB
-4. Koleksi Saya to manage downloaded books
+4. My Collection to manage downloaded books
 5. Uses qpdf wasm, no need to install qpdf separately
 
 ## How it works:
