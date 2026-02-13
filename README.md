@@ -15,7 +15,7 @@ I have already reported the vulnerabilities. There is no excuse for ignoring the
 1. Download book files
 2. Support for epub and pdf files, with or without DRM protection
 3. Collection saved to IndexedDB
-4. My Collection to manage downloaded books
+4. Koleksi Saya to manage downloaded books
 5. Uses qpdf wasm, no need to install qpdf separately
 
 ## How it works:
