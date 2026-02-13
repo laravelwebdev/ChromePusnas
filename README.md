@@ -1,5 +1,6 @@
 # ![MocoX](./icons/icon48.png) MocoX
 
+Note for the developer
 ```
 They present themselves as the No. 1 Digital Library Developer in Indonesia.
 They claim to work with 250 government and private partners across provinces and cities, collaborate with 600+ publishers, and even position themselves as a partner of Kementerian Pendidikan Tinggi, Sains, dan Teknologi Republik Indonesia.
