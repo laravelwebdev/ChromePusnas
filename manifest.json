@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "ChromePusnas",
-  "version": "1.0.3",
-  "description": "Ipusnas  Downloader",
+  "name": "MocoX",
+  "version": "1.1.0",
+  "description": "Book Downloader for Moco Digilib",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -17,13 +17,15 @@
     "downloads"
   ],
   "host_permissions": [
-    "https://ipusnas2.perpusnas.go.id/*"
+    "https://ipusnas2.perpusnas.go.id/*",
+    "*://*.moco.co.id/*"
   ],
   "content_scripts": [
     {
       "world": "MAIN",
       "matches": [
-        "https://ipusnas2.perpusnas.go.id/*"
+        "https://ipusnas2.perpusnas.go.id/*",
+        "*://*.moco.co.id/*"
       ],
       "js": [
         "downloader.js"
@@ -37,7 +39,8 @@
     {
       "world": "MAIN",
       "matches": [
-        "https://ipusnas2.perpusnas.go.id/*"
+        "https://ipusnas2.perpusnas.go.id/*",
+        "*://*.moco.co.id/*"
       ],
       "js": [
         "history.js"
@@ -47,7 +50,8 @@
     {
       "world": "ISOLATED",
       "matches": [
-        "https://ipusnas2.perpusnas.go.id/*"
+        "https://ipusnas2.perpusnas.go.id/*",
+        "*://*.moco.co.id/*"
       ],
       "js": [
         "bridge.js"
@@ -67,7 +71,8 @@
         "lib/qpdf.wasm"
       ],
       "matches": [
-        "https://ipusnas2.perpusnas.go.id/*"
+        "https://ipusnas2.perpusnas.go.id/*",
+        "*://*.moco.co.id/*"
       ]
     }
   ]
