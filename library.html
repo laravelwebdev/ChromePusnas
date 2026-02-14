@@ -17,7 +17,16 @@
     <div class="container">
         <header>
             <h1>Koleksi Saya</h1>
-            <input type="text" id="searchInput" placeholder="Cari buku...">
+            <div class="header-actions">
+                <input type="text" id="searchInput" placeholder="Cari buku...">
+                <div class="backup-restore-group">
+                    <button id="receiveBtn" class="nav-btn">Terima</button>
+                    <button id="backupBtn" class="nav-btn">Backup</button>
+                    <button id="restoreBtn" class="nav-btn">Restore</button>
+                    <input type="file" id="receiveInput" accept=".send" style="display: none;">
+                    <input type="file" id="restoreInput" accept=".backup" style="display: none;">
+                </div>
+            </div>
         </header>
 
         <main id="bookGrid" class="book-grid">
@@ -31,6 +40,7 @@
             <div class="bulk-actions">
                 <button id="cancelSelectionBtn" class="bulk-btn secondary">Batal</button>
                 <button id="selectAllBtn" class="bulk-btn secondary">Pilih Semua</button>
+                <button id="sendSelectedBtn" class="bulk-btn primary">Kirim</button>
                 <button id="deleteSelectedBtn" class="bulk-btn danger">Hapus Terpilih</button>
             </div>
         </div>

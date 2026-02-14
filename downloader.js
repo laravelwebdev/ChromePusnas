@@ -1,4 +1,4 @@
-(()=>{const b="1.1.1",_="https://api.github.com/repos/laravelwebdev/ChromePusnas/releases/latest";let f=null,m;new Promise(n=>m=n);async function g(){var n;try{const o=await(await fetch(_,{cache:"no-store"})).json(),a=(n=o==null?void 0:o.tag_name)==null?void 0:n.replace(/^v/,"");if(!a||a===b)return;const t=document.createElement("div");t.textContent=`⚠ Versi baru Ekstensi iPusnas tersedia!
+(()=>{const b="1.2.0",_="https://api.github.com/repos/laravelwebdev/ChromePusnas/releases/latest";let f=null,m;new Promise(n=>m=n);async function g(){var n;try{const o=await(await fetch(_,{cache:"no-store"})).json(),a=(n=o==null?void 0:o.tag_name)==null?void 0:n.replace(/^v/,"");if(!a||a===b)return;const t=document.createElement("div");t.textContent=`⚠ Versi baru Ekstensi iPusnas tersedia!
 Saat ini: ${b}, Terbaru: ${a}`,t.style.cssText=`
             position: fixed;
             top: 10px;
