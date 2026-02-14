@@ -17,9 +17,10 @@ I have already reported the vulnerabilities. There is no excuse for ignoring the
 ## Features
 1. Download book files
 2. Support for epub and pdf files, with or without DRM protection
-3. Collection saved to IndexedDB
+3. Collection saved to File System
 4. My Collection to manage downloaded books
 5. Uses qpdf wasm, no need to install qpdf separately
+6. Share book to others
 
 ## How it works:
 [Watch Video](https://youtu.be/0_mWJYU90Jw?si=uCb1LTro5KXt5Fw7)
